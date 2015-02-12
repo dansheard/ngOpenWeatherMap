@@ -1,0 +1,22 @@
+{
+  "name": "ngOpenWeatherMap",
+  "version": "0.0.0",
+  "authors": [
+    "Dan Sheard <dan.c.sheard@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13",
+    "angular-route": "~1.3.13"
+  }
+}
