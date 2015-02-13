@@ -10,7 +10,7 @@ angular.module('OWMApp', ['ngRoute'])
     })
     .controller('HomeCtrl', function($scope) {
         //empty for now
-    });;
+    })
     .controller('CityCtrl', function($scope) {
     	$scope.city = 'New York';
     });;
