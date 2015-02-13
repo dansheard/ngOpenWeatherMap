@@ -1,7 +1,7 @@
 angular.module('OWMApp', ['ngRoute'])
     .config(function($routeProvider){
         $routeProvider.when('/', {
-            templateUrl : 'app/home.html',
+            templateUrl : './home.html',
             controller : 'HomeCtrl'
         });
     })
